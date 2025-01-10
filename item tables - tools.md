@@ -6,6 +6,7 @@ nav_order: 1
 ---
 
 # Equipment Tables
+
 Unless Otherwise noted, items listed below take up 1 slot and have 3 Usage
 
 Item descriptions use the following shorthand: 
@@ -14,6 +15,7 @@ Item descriptions use the following shorthand:
 - DR X - the Difficulty Rating used when making a save against the item (locate, disarm, escape, etc.)
 
 ## Tools
+
 | Item              | Description                                                |   Cost |
 | :---------------- | :--------------------------------------------------------- | -----: |
 | Bear trap         | DR 12, 2d6, unwary are Ensnared*, must be reset            |  20 sp |
