@@ -1,7 +1,7 @@
 ---
 title: Items and Inventory
 layout: default
-nav_order: 2
+nav_order: 3
 ---
 
 # Items and Inventory
@@ -22,7 +22,7 @@ A character's role is determined by the items in their inventory. Preparing your
 - Corpses, treasure chests, or other large objects
   - If it takes both hands to carry and limits attacking and moving, consider resolving with a STR save. As with any save, if there's no danger involved and the character is physically capable, it only requires time
   - Only use slots for these items when determining how much room they take up in carts or on pack animals
-
+ 
 ## Quick Slots
 - Of a Character's item slots, 2 + DEX are quick slots
 - Quick slots represent items easily accessed during combat, and your characters ability to get them quickly
@@ -43,8 +43,6 @@ Usage represents how much of an item is left. Most items have 3 Usage dots. Play
 Once all Usage dots are marked, the item is depleted or destroyed.
 
 If an item can be retrieved after use such as arrows or a trap, test luck to see if the item suffered damage, and mark Usage on a failure.
-
-Usage is also used to measure time. A flask of oil that has been set on fire will burn a number of rounds equal to it's remaining usage, the effects of poison last a number of rounds equal to the usage applied. Using Usage to adjudicate other time measurements involving items is encouraged.
 
 ### Quality
 Quality is used in place of Usage for items that can be repaired, such as weapons and armor. It costs 10% of an items value to repair one Quality dot. 
