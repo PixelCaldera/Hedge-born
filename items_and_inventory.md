@@ -50,12 +50,31 @@ Quality is used in place of Usage for items that can be repaired, such as weapon
 When all Quality dots are marked, an item has 1 final use. A weapon has one last attack, armor can block 1 more blow, etc. After this, the item is destroyed. Players may opt to not use these items so they can be repaired instead.
 
 ## Improvised Items
-Players get in all sort of hairy situations and will look to their equipment for solutions. They will try to use items in place of another (ex. some nails as lockpicks, a shovel as a weapon), or test the limits of what an item is physically capable of (ex. catch a goblin in a bug net, break through a wall with a crowbar). When this happens, the Referee can:
-- allow it, but mark 1 or more Usage on the item
-- allow it, but put 1 or more banes on the save to succeed
-- allow it, but it takes a while and something dangerous happens in the meantime
-- explain why it won't work, and what they could do to make it work
-- any combination of the above
-- or, just say no. If items can do too much, it trivializes preparing equipment, and the adventure in general
 
-Overall, be consistent. When players think of solutions, they expect that whatever worked last time will work again. They will get frustrated if things are constantly changing.
+Players get in all sort of hairy situations and will look to their equipment for solutions. Players will experiment and use gear in ways outside it's typical use, and Referees are encouraged to roll with these situations. Here are some guidelines for ruling items on the fly.
+- If using the item makes an action easier (crowbars to open doors, pitons to climb walls):
+  - Grants 1 boon on a save, 2 if the item is of high quality
+  - Mark Usage on a failed save
+- If using the item allows characters to bypass a hazard or obstacle (grappling hook to swing over a pit, lockpicks to open a lock):
+  - It works, reward characters for bringing the right tools for the job
+  - No save is necessary if the only risk is time
+  - Mark Usage on a failed save
+- If the item deals damage or a condition (caltrops, firebombs)
+  - Decide the damage based on item cost, rarity, and slots. Use weapons as a guide, i.e. caltrops should not deal as much damage as a greatsword
+  - If it effects all targets in 1 zone, lower damage
+  - If it afflicts a condition, lower damage
+  - If a save is made before taking damage, increase the damage
+  - Mark Usage for each use
+- if the item heals damage or a condition
+  - decide healing based on item cost, rarity, and time taken to use it. Use other healing items as a guide.
+  - mark Usage for each use
+
+Sometimes players will try to use items in place of another (ex. some nails as lockpicks, a shovel as a weapon), or test the limits of what an item is physically capable of (ex. catch a goblin in a bug net, break through a wall with a crowbar). When this happens, the Referee can:
+- Allow it, but mark 1 or more Usage on the item
+- Allow it, but put 1 or more banes on the save to succeed
+- Allow it, but it takes a while and something dangerous happens in the meantime
+- Explain why it won't work, and what they could do to make it work
+- Any combination of the above
+- Say no. If an item can do too much, it trivializes other items, the act of preparing equipment, and the adventure in general
+
+Overall, Referees must be consistent. When players think of solutions, they expect that whatever worked last time will work again. They will get frustrated if things are constantly changing.
