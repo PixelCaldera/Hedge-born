@@ -90,32 +90,32 @@ Use the tables below to flesh out your character's personality, backstory, and a
 Virtues and Vices describe the personality of your character. At the end of each session, you will decide as a group if your characters lived up to their virtues and vices and award Luck Dice for each. Roll, choose, or invent a Virtue and a Vice.
 
 **Virtues**
-| d10    | Virtue         | Gain a Luck Dice when…                   |
+|d10|Virtue|Gain a Luck Dice when…|
 |------------|--------------------|----------------------------------------------|
-| 1      | Ambitious      | You achieve a goal                       |
-| 2      | Cautious       | Your carefulness pays off                |
-| 3      | Courageous     | You charge head first into danger        |
-| 4      | Disciplined    | You reject something frivolous           |
-| 5      | Gregarious     | You donate something you need            |
-| 6      | Honorable      | You keep a promise                       |
-| 7      | Humble         | You raise up someone else                |
-| 8      | Merciful       | You spare when it’s easier to kill       |
-| 9      | Serene         | You’re unphased while in danger          |
-| 10     | Tolerant       | You accept something you find strange    |
+|1|Ambitious|You achieve a goal|
+|2|Cautious|Your carefulness pays off|
+|3|Courageous|You charge head first into danger|
+|4|Disciplined|You reject something frivolous|
+|5|Gregarious|You donate something you need|
+|6|Honorable|You keep a promise|
+|7|Humble|You raise up someone else|
+|8|Merciful|You spare when it’s easier to kill|
+|9|Serene|You’re unphased while in danger|
+|10|Tolerant|You accept something you find strange|
 
 **Vices**
-| d10    | Vice          | Gain a Luck Dice when…               |
+|d10|Vice|Gain a Luck Dice when…|
 |------------|-------------------|------------------------------------------|
-| 1      | Aggressive    | You get up in someone’s face         |
-| 2      | Bitter        | You suffer over a held grudge        |
-| 3      | Craven        | You leave your allies behind         |
-| 4      | Deceitful     | Your lie gets someone hurt           |
-| 5      | Greedy        | You risk it all for more treasure    |
-| 6      | Lazy          | Your neglect ruins something         |
-| 7      | Nervous       | You’re the last to go into danger    |
-| 8      | Rude          | You lash out at someone helpful      |
-| 9      | Vain          | You put someone else down            |
-| 10     | Vengeful      | You put revenge over everything      |
+|1|Aggressive|You get up in someone’s face|
+|2|Bitter|You suffer over a held grudge|
+|3|Craven|You leave your allies behind|
+|4|Deceitful|Your lie gets someone hurt|
+|5|Greedy|You risk it all for more treasure|
+|6|Lazy|Your neglect ruins something|
+|7|Nervous|You’re the last to go into danger|
+|8|Rude|You lash out at someone helpful|
+|9|Vain|You put someone else down|
+|10|Vengeful|You put revenge over everything|
 
 In general, your Virtue should award Luck Dice when doing something good isn’t easy, and your Vice should award Luck Dice when being immoral puts someone in danger. 
 
@@ -125,33 +125,33 @@ Some misfortune has thrust your PC into a life of deadly adventure. Roll, choose
 
 |           |                    |           |                  |
 |-----------|--------------------|-----------|------------------|
-| 1     | Abandoned      | 11    | Framed       |
-| 2     | Addicted       | 12    | Haunted      |
-| 3     | Blackmailed    | 13    | Kidnapped    |
-| 4     | Condemned      | 14    | Mutilated    |
-| 5     | Cursed         | 15    | Poor         |
-| 6     | Defrauded      | 16    | Pursued      |
-| 7     | Demoted        | 17    | Rejected     |
-| 8     | Discredited    | 18    | Replaced     |
-| 9     | Disowned       | 19    | Robbed       |
-| 10    | Exiled         | 20    | Suspected    |
+|1|Abandoned|11|Framed|
+|2|Addicted|12|Haunted|
+|3|Blackmailed|13|Kidnapped|
+|4|Condemned|14|Mutilated|
+|5|Cursed|15|Poor|
+|6|Defrauded|16|Pursued|
+|7|Demoted|17|Rejected|
+|8|Discredited|18|Replaced|
+|9|Disowned|19|Robbed|
+|10|Exiled|20|Suspected|
 
 ### Physical Traits
 
 Roll, choose, or invent some physical and personality traits.
 
-| d10    | Physique      | Skin          | Hair         | Face         | Speech        | Clothing    |
+|d10|Physique|Skin|Hair|Face|Speech|Clothing|
 |------------|-------------------|-------------------|------------------|------------------|-------------------|-----------------|
-| 1      | Athletic      | Birthmark     | Bald         | Bony         | Blunt         | Antique     |
-| 2      | Brawny        | Oily          | Braided      | Broken       | Booming       | Bloody      |
-| 3      | Flabby        | Scarred       | Curly        | Chiseled     | Cryptic       | Elegant     |
-| 4      | Lanky         | Pockmarked    | Filthy       | Elongated    | Droning       | Filthy      |
-| 5      | Rugged        | Rosy          | Frizzy       | Pale         | Formal        | Foreign     |
-| 6      | Scrawny       | Round         | Long         | Perfect      | Gravelly      | Frayed      |
-| 7      | Short         | Soft          | Luxurious    | Rat-like     | Precise       | Frumpy      |
-| 8      | Statuesque    | Tanned        | Oily         | Sharp        | Squeaky       | Livery      |
-| 9      | Stout         | Tattooed      | Wavy         | Square       | Stuttering    | Rancid      |
-| 10     | Towering      | Weathered     | Wispy        | Sunken       | Whispery      | Soiled      |
+|1|Athletic|Birthmark|Bald|Bony|Blunt|Antique|
+|2|Brawny|Oily|Braided|Broken|Booming|Bloody|
+|3|Flabby|Scarred|Curly|Chiseled|Cryptic|Elegant|
+|4|Lanky|Pockmarked|Filthy|Elongated|Droning|Filthy|
+|5|Rugged|Rosy|Frizzy|Pale|Formal|Foreign|
+|6|Scrawny|Round|Long|Perfect|Gravelly|Frayed|
+|7|Short|Soft|Luxurious|Rat-like|Precise|Frumpy|
+|8|Statuesque|Tanned|Oily|Sharp|Squeaky|Livery|
+|9|Stout|Tattooed|Wavy|Square|Stuttering|Rancid|
+|10|Towering|Weathered|Wispy|Sunken|Whispery|Soiled|
 
 ### Names
 
@@ -160,30 +160,30 @@ Roll Choose or invent a Name that suits your character. But don’t get too atta
 **Feminine Names**
 |||||
 |---|------------------|---|----------------|
-| 1     | Alma         | 11    | Margot     |
-| 2     | Beatrix      | 12    | Minerva    |
-| 3     | Bianca       | 13    | Nerissa    |
-| 4     | Cleopha      | 14    | Odette     |
-| 5     | Constance    | 15    | Olga       |
-| 6     | Demona       | 16    | Pepper     |
-| 7     | Elsbeth      | 17    | Poppy      |
-| 8     | Esme         | 18    | Sybil      |
-| 9     | Hester       | 19    | Vivian     |
-| 10    | Jessamine    | 20    | Zora       |
+|1|Alma|11|Margot|
+|2|Beatrix|12|Minerva|
+|3|Bianca|13|Nerissa|
+|4|Cleopha|14|Odette|
+|5|Constance|15|Olga|
+|6|Demona|16|Pepper|
+|7|Elsbeth|17|Poppy|
+|8|Esme|18|Sybil|
+|9|Hester|19|Vivian|
+|10|Jessamine|20|Zora|
 
 **Masculine Names**
 |||||
 |---|-----------|---|------------------|
-| 1     | Basil       | 11    | Jules        |
-| 2     | Bertram     | 12    | Merrick      |
-| 3     | Chadwick    | 13    | Orion        |
-| 4     | Clovis      | 14    | Percival     |
-| 5     | Destrian    | 15    | Peregrine    |
-| 6     | Erasmus     | 16    | Reiner       |
-| 7     | Faustus     | 17    | Silas        |
-| 8     | Finn        | 18    | Stilton      |
-| 9     | Fox         | 19    | Tenpiece     |
-| 10    | Godwin      | 20    | Webster      |
+|1|Basil|11|Jules|
+|2|Bertram|12|Merrick|
+|3|Chadwick|13|Orion|
+|4|Clovis|14|Percival|
+|5|Destrian|15|Peregrine|
+|6|Erasmus|16|Reiner|
+|7|Faustus|17|Silas|
+|8|Finn|18|Stilton|
+|9|Fox|19|Tenpiece|
+|10|Godwin|20|Webster|
 
 ## Gaining Experience
 
@@ -193,35 +193,35 @@ PCs gain XP From the following sources:
 
 **Monster Slaying**: For neutralizing a monster, PCs gain 10 XP per monster level. There are additional modifiers based on threat level:
 
-| Threat Level<br>    | Multiplier<br>    |
+|Threat Level|Multiplier|
 |---------------------|-------------------|
-| Local<br>           | x1<br>            |
-| Regional<br>        | x5<br>            |
-| Global<br>          | x10<br>           |
+|Local|x1|
+|Regional|x5|
+|Global|x10|
 
 **Exploration**: PCs are awarded XP for discovering important locations for the first time.
 
-| Importance<br>    | XP<br>         | Distance from Safe Haven<br>    | Multiplier<br>    |
+|Importance| XP|Distance from Safe Haven|Multiplier|
 |-------------------|----------------|---------------------------------|-------------------|
-| Local<br>         | 100<br>        | 1 Day<br>                       | x1<br>            |
-| Regional<br>      | 1,000<br>      | 2 Days<br>                      | x2<br>            |
-| Global<br>        | 10,000<br>     | 3 Days<br>                      | x3<br>            |
-| Cosmic<br>        | 100,000<br>    | Etc.<br>                        | Etc.<br>          |
+|Local|100|1 Day|x1|
+|Regional|1,000|2 Days|x2|
+|Global|10,000|3 Days|x3|
+|Cosmic|100,000|Etc.|Etc.|
 
 At certain XP thresholds, PCs gain a level.
 
-| Level<br>    | XP Total<br>    |
+|Level|XP Total|
 |--------------|-----------------|
-| 1<br>        | 0<br>           |
-| 2<br>        | 1,000<br>       |
-| 3<br>        | 2,000<br>       |
-| 4<br>        | 4,000<br>       |
-| 5<br>        | 8,000<br>       |
-| 6<br>        | 16,000<br>      |
-| 7<br>        | 32,000<br>      |
-| 8<br>        | 64,000<br>      |
-| 9<br>        | 128,000<br>     |
-| 10<br>       | 256,000<br>     |
+|1|0|
+|2|1,000|
+|3|2,000|
+|4|4,000|
+|5|8,000|
+|6|16,000|
+|7|32,000|
+|8|64,000|
+|9|128,000|
+|10|256,000|
 
 ## Levelling Up
 

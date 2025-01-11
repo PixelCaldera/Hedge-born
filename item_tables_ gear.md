@@ -9,7 +9,7 @@ nav_order: 1
 
 Prices are given in silver pieces, which is the standard currency among commoners and adventurers.
 
-**Unless Otherwise noted, items listed below take up 1 slot and have 3 Usage**
+**Unless otherwise noted, items listed below take up 1 slot and have 3 Usage**
 
 ## Adventuring Gear
 
