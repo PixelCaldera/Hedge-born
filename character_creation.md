@@ -54,7 +54,7 @@ Roll or choose a background. You gain the background’s item, and you have the 
 Alternatively, start with a **Spell** instead of a background item.
 
 |D20|Background|Item|
-|------------|----------------------|--------------------------------------------------------------------------------------------------------------------------------|
+|----|----------------------|--------------------------------------------------------------------------------------------------------------------------------|
 |1|Burglar| Bullseye Lantern (1 slot, Light (Nearby), Requires Fuel, 3 Quality)<br>Projects light in a straight line, illuminating a path without illuminating yourself.|
 |2|Diplomat| Letters of Introduction (1 slot, 3 Usage)<br>Can grant you an audience and diplomatic immunity.|
 |3|Farmhand| Family Sword (Choose any weapon)<br>An ancient weapon passed down your family line. Perhaps just a dusty old relic.|
@@ -92,7 +92,7 @@ Virtues and Vices describe the personality of your character. At the end of each
 **Virtues**
 
 |d10|Virtue|Gain a Luck Dice when…|
-|------------|--------------------|----------------------------------------------|
+|----|--------------------|----------------------------------------------|
 |1|Ambitious|You achieve a goal|
 |2|Cautious|Your carefulness pays off|
 |3|Courageous|You charge head first into danger|
@@ -107,7 +107,7 @@ Virtues and Vices describe the personality of your character. At the end of each
 **Vices**
 
 |d10|Vice|Gain a Luck Dice when…|
-|------------|-------------------|------------------------------------------|
+|----|-------------------|------------------------------------------|
 |1|Aggressive|You get up in someone’s face|
 |2|Bitter|You suffer over a held grudge|
 |3|Craven|You leave your allies behind|
@@ -125,8 +125,8 @@ In general, your Virtue should award Luck Dice when doing something good isn’t
 
 Some misfortune has thrust your PC into a life of deadly adventure. Roll, choose, or invent a misfortune.
 
-|           |                    |           |                  |
-|-----------|--------------------|-----------|------------------|
+|||||
+|---|--------------------|---|------------------|
 |1|Abandoned|11|Framed|
 |2|Addicted|12|Haunted|
 |3|Blackmailed|13|Kidnapped|
@@ -143,7 +143,7 @@ Some misfortune has thrust your PC into a life of deadly adventure. Roll, choose
 Roll, choose, or invent some physical and personality traits.
 
 |d10|Physique|Skin|Hair|Face|Speech|Clothing|
-|------------|-------------------|-------------------|------------------|------------------|-------------------|-----------------|
+|----|-------------------|-------------------|------------------|------------------|-------------------|-----------------|
 |1|Athletic|Birthmark|Bald|Bony|Blunt|Antique|
 |2|Brawny|Oily|Braided|Broken|Booming|Bloody|
 |3|Flabby|Scarred|Curly|Chiseled|Cryptic|Elegant|
@@ -198,7 +198,7 @@ PCs gain XP From the following sources:
 **Monster Slaying**: For neutralizing a monster, PCs gain 10 XP per monster level. There are additional modifiers based on threat level:
 
 |Threat Level|Multiplier|
-|---------------------|-------------------|
+|-----------|------------|
 |Local|x1|
 |Regional|x5|
 |Global|x10|
@@ -206,7 +206,7 @@ PCs gain XP From the following sources:
 **Exploration**: PCs are awarded XP for discovering important locations for the first time.
 
 |Importance| XP|Distance from Safe Haven|Multiplier|
-|-------------------|----------------|---------------------------------|-------------------|
+|-----------|----------|---------------------------------|------------|
 |Local|100|1 Day|x1|
 |Regional|1,000|2 Days|x2|
 |Global|10,000|3 Days|x3|
