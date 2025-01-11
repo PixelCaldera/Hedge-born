@@ -90,6 +90,7 @@ Use the tables below to flesh out your character's personality, backstory, and a
 Virtues and Vices describe the personality of your character. At the end of each session, you will decide as a group if your characters lived up to their virtues and vices and award Luck Dice for each. Roll, choose, or invent a Virtue and a Vice.
 
 **Virtues**
+
 |d10|Virtue|Gain a Luck Dice when…|
 |------------|--------------------|----------------------------------------------|
 |1|Ambitious|You achieve a goal|
@@ -104,6 +105,7 @@ Virtues and Vices describe the personality of your character. At the end of each
 |10|Tolerant|You accept something you find strange|
 
 **Vices**
+
 |d10|Vice|Gain a Luck Dice when…|
 |------------|-------------------|------------------------------------------|
 |1|Aggressive|You get up in someone’s face|
@@ -158,6 +160,7 @@ Roll, choose, or invent some physical and personality traits.
 Roll Choose or invent a Name that suits your character. But don’t get too attached. It’s a dangerous world out there.
 
 **Feminine Names**
+
 |||||
 |---|------------------|---|----------------|
 |1|Alma|11|Margot|
@@ -172,6 +175,7 @@ Roll Choose or invent a Name that suits your character. But don’t get too atta
 |10|Jessamine|20|Zora|
 
 **Masculine Names**
+
 |||||
 |---|-----------|---|------------------|
 |1|Basil|11|Jules|
@@ -211,7 +215,7 @@ PCs gain XP From the following sources:
 At certain XP thresholds, PCs gain a level.
 
 |Level|XP Total|
-|--------------|-----------------|
+|---|--------|
 |1|0|
 |2|1,000|
 |3|2,000|
