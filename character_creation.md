@@ -45,7 +45,7 @@ Your PC has 4 ability scores that determine what situations they will excel in:
 - You start with 2d4 Stamina
 - You have 10 + STR Item Slots
 - Your Max Wounds is 10 + END
-- You have Quick Slots equal to 2 + DEX - any Banes on DEX from armor
+- You have Quick Slots equal to 2 + DEX
 - You start with 3 Luck Dice
 
 ## 3. Background

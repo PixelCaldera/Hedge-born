@@ -18,6 +18,7 @@ Prices are given in silver pieces, which is the standard currency among commoner
 |**Tools**|
 |Caltrops|DR10, each Usage traps 1 Zone, unwary who enter are **Hobbled** and take 1d4 damage|5 sp|
 |Crowbar|2 slots, 1 Boon on STR saves for prying and smashing|10 sp|
+|Fishing Rod|2 slots, 1 Boon on foraging results near bodies of water|15 sp|
 |Glass bottle|Holds up to 3 Usage of a liquid, salve, insects, etc.|5 sp|
 |Grappling hook|Attaches to a rope, grants 1 Boon to **Ensare**|10 sp|
 |Hammer and spikes||15 sp|

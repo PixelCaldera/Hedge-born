@@ -24,8 +24,8 @@ A character's role is determined by the items in their inventory. Preparing your
   - Only use slots for these items when determining how much room they take up in carts or on pack animals
  
 ## Quick Slots
-- Of a Character's item slots, 2 + DEX are quick slots
-- Quick slots represent items easily accessed during combat, and your characters ability to get them quickly
+- Of a Character's item slots, 2 + DEX are Quick Slots
+- Quick Slots represent items easily accessed during combat, and your characters ability to get them quickly
 - Any item that isn't in a quick slot requires an action spent retrieving it before it can be used during combat
 - Retrieved items don't replace items in quick slots. It remains retrieved until combat ends and it is stored away again
   - Items can not be retrieved pre-emptively to start combat with them ready, quick slots already represent a character's ability to do this
@@ -35,11 +35,11 @@ A character's role is determined by the items in their inventory. Preparing your
 
 ## Usage
 Usage represents how much of an item is left. Most items have 3 Usage dots. Players will mark a Usage when the item is degraded in some way, such as these situations:
-- Rations: mark usage when consumed
-- Light Sources: mark usage after 6 turns
-- Weapon: mark usage when a 1 is rolled for damage
-- Armor: mark usage when hit by a foes crit
-- Tools: mark usage when failing a save involving use of that tool
+- Rations: mark Usage when consumed
+- Light Sources: mark Usage after 6 turns
+- Weapon: mark Usage when a 1 is rolled for damage
+- Armor: mark Usage when hit by a foes crit
+- Tools: mark Usage when failing a save involving use of that tool
 Once all Usage dots are marked, the item is depleted or destroyed.
 
 If an item can be retrieved after use such as arrows or a trap, test luck to see if the item suffered damage, and mark Usage on a failure.
@@ -47,27 +47,32 @@ If an item can be retrieved after use such as arrows or a trap, test luck to see
 ### Quality
 Quality is used in place of Usage for items that can be repaired, such as weapons and armor. It costs 10% of an items value to repair one Quality dot. 
 
-When all Quality dots are marked, an item has 1 final use. A weapon has one last attack, armor can block 1 more blow, etc. After this, the item is destroyed. Players may opt to not use these items so they can be repaired instead.
+When all Quality dots are marked, an item has 1 final use. After this, the item is destroyed. Players may opt to not use these items so they can be repaired instead.
 
-## Improvised Items
+Armor has special behavior when all Quality is marked, see **Armor** page for more details.
 
-Players get in all sort of hairy situations and will look to their equipment for solutions. Players will experiment and use gear in ways outside it's typical use, and Referees are encouraged to roll with these situations. Here are some guidelines for ruling items on the fly.
-- If using the item makes an action easier (crowbars to open doors, pitons to climb walls):
+## Ruling Items
+
+Players get in all sort of hairy situations and will look to their equipment for solutions. An item's description rules basic usage, but specifying rules for every way an item can be used is not the goal of this system. Referees can follow these guidelines for ruling items on the fly.
+- If using the item makes an action easier (crowbar to open a door, pitons to climb a wall):
   - Grants 1 boon on a save, 2 if the item is of high quality
+  - If no save, add boon to results (see fishing rod)
   - Mark Usage on a failed save
 - If using the item allows characters to bypass a hazard or obstacle (grappling hook to swing over a pit, lockpicks to open a lock):
   - It works, reward characters for bringing the right tools for the job
   - No save is necessary if the only risk is time
   - Mark Usage on a failed save
 - If the item deals damage or a condition (caltrops, firebombs)
-  - Decide the damage based on item cost, rarity, and slots. Use weapons as a guide, i.e. caltrops should not deal as much damage as a greatsword
+  - Decide the damage based on item cost, rarity, and slots. Use weapons as a baseling, i.e. caltrops are similar to a dagger
   - If it effects all targets in 1 zone, lower damage
-  - If it afflicts a condition, lower damage
+  - If it also afflicts a condition, lower damage
   - If a save is made before taking damage, increase the damage
   - Mark Usage for each use
 - if the item heals damage or a condition
   - decide healing based on item cost, rarity, and time taken to use it. Use other healing items as a guide.
   - mark Usage for each use
+
+### Improvised Items
 
 Sometimes players will try to use items in place of another (ex. some nails as lockpicks, a shovel as a weapon), or test the limits of what an item is physically capable of (ex. catch a goblin in a bug net, break through a wall with a crowbar). When this happens, the Referee can:
 - Allow it, but mark 1 or more Usage on the item
