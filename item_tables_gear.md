@@ -35,10 +35,10 @@ Prices are given in silver pieces, which is the standard currency among commoner
 |Rations|each Usage is 1 days worth of food|15 sp|
 |Animal feed|each Usage is 1 days worth of food for a horse, mule, etc.|6 sp|
 |**Light**|
-|Candle|Illuminates Close area, must be held when lit, flame is small and easy to hide|5 sp|
-|Torches|Illuminates Nearby area, must be held when lit, remains lit when dropped|10 sp|
-|Lantern|Illuminates Nearby area, can be fixed to a belt, pack, or pole to free hands|50 sp|
-|Oil, flask|Fuels lantern, can coat 1 Nearby zone, targets moving in zone must make a DR 12 DEX save or fall **Prone**. If the oil was lit, targets are also **On Fire** for Usage rounds|5 sp|
+|Candle|Illuminates Close area, must be held when lit, flame is small and easy to hide, mark Usage after 6 turns|5 sp|
+|Torches|1 Usage, Illuminates Nearby area, must be held when lit, remains lit when dropped, mark Usage after 6 turns|10 sp|
+|Lantern|Illuminates Nearby area, can be fixed to a belt, pack, or pole to free hands, requires oil|50 sp|
+|Oil, flask|Fuels lantern, mark Usage after 6 turns, can toss to coat 1 Nearby zone, targets moving in zone must make a DR 12 DEX save or fall **Prone**. If the oil is lit, targets are also **On Fire** for Usage rounds|5 sp|
 |**Alchemy** |
 |Acid|1 Usage, deals 1d4 Usage to armor, 2d4 damage if unarmored|15 sp|
 |Firebombs|Deals 1d10 damage to 1 zone|30 sp|
