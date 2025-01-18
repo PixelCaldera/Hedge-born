@@ -35,7 +35,7 @@ These are the most common Actions in combat:
 
 **Use an Item**: as per the item’s description.
 
-**Maneuver**:  disarming, pushing, tripping, climbing on, restraining etc. Make an appropriate save against the enemy’s Target.
+**Maneuver**:  disarming, pushing, tripping, climbing on, restraining etc. Make an appropriate save against the enemy’s Target. See Conditions for effects.
 
 **Cast a Spell**:  See spell rules *(under construction, link this later)*
 
@@ -79,6 +79,15 @@ Stamina represents the skill and determination a PC has gained by adventuring to
 ### Wounds
 
 After Stamina reaches 0, each point of damage is added to your **Wounds**. Wounds represent real, debilitating harm that is hard to walk off.
+
+The number of wounds taken from a single damage source or attack determines any additional effects the victim suffers:
+
+|Wounds|Effect|
+|------|--------------------|
+|1-3|Just pain and blood|
+|4-6|Damaged gear: Roll d20, mark 1d4 Usage on the item in that numbered slot|
+|7-9|Bleeding out (see Conditions)|
+|10+|Mortal Wound: You will die in 1d4 rounds unless healed at least 1 wound| 
 
 **Once a PC's Wounds reaches their Max Wounds, they die.**
 
