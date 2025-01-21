@@ -9,9 +9,15 @@ nav_order: 1
 
 Characters can inflict conditions by using items, performing manuevers, and engaging with their environment. There enemies will be doing the same.
 
-**Bleeding out:** each round, take 1 wound.
+**Agony:** If doing anything besides writhing in pain on your turn, you take 1d6 damage.
+
+**Befuddled:** You can’t focus enough to cast spells.
+
+**Bleeding Out:** each round, take 1 wound.
 
 **Ensnared:** cannot move, can still use actions provided there is enough space for it.
+
+**Fear:** You suffer 1 bane on all checks and attacks, and enemies have 1 boon on attacks against you.
 
 **Hobbled:** Moving Nearby requires spending an Action.
 

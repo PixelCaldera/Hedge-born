@@ -20,12 +20,12 @@ Prices are given in silver pieces, which is the standard currency among commoner
 |Crowbar|2 slots, 1 Boon on STR saves for prying and smashing|10 sp|
 |Fishing Rod|2 slots, 1 Boon on foraging results near bodies of water|15 sp|
 |Glass bottle|Holds up to 3 Usage of a liquid, salve, insects, etc.|5 sp|
-|Grappling hook|Attaches to a rope, grants 1 Boon to **Ensare**|10 sp|
+|Grappling hook|Attaches to a rope|10 sp|
 |Hammer and spikes||15 sp|
 |Hand mirror|Peak around corners, or reflect light for signals|200 sp|
 |Lockpicks|Open locks, requires a DEX save|100 sp|
 |Net, bug|Easily capture small creatures, like insects or mice|5 sp|
-|Net, large|DR 10, **Ensnares** 1 human-sized target,|10 sp|
+|Net, large|DR 10, 1 human-sized target is **Ensnared** ,|10 sp|
 |Pickaxe|2 slots, 1 round to carve out a hand-sized stone, 1 turn to dig a 5' crawlspace through stone, 1 watch to dig a 5x5' tunnel through stone, divide time by diggers assuming there is room to work comfortably |10 sp|
 |Pole, 10ft., collapsing||10 sp|
 |Rope, 50ft.||10 sp|

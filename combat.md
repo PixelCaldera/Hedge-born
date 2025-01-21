@@ -86,7 +86,7 @@ The number of wounds taken from a single damage source or attack determines any 
 |------|--------------------|
 |1-3|Just pain and blood|
 |4-6|Damaged gear: Roll d20, mark 1d4 Usage on the item in that numbered slot|
-|7-9|Bleeding out (see Conditions)|
+|7-9|**Bleeding Out** (see Conditions)|
 |10+|Mortal Wound: You will die in 1d4 rounds unless healed at least 1 wound| 
 
 **Once a PC's Wounds reaches their Max Wounds, they die.**
