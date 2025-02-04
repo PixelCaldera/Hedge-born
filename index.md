@@ -18,9 +18,9 @@ The world of Hedge-born is carved from old stone, it's cracks long formed before
 
 **Into the Odd** by Chris McDowall. I use the hitless attacks, hit protection (called stamina in this system) and rests.
 
-**Cairn** by Yochai Gal. I have taken inpiration from its blend of Knave and Into the Odd, but diverted in certain places (to do: add more detail on what is different).
+**Cairn** by Yochai Gal. I have taken inpiration from its blend of Knave and Into the Odd, but diverted in certain places. Most notably keeping roll high saves from Knave, and adding ability scores to other stats.
 
-**Mausritter** by Isaac Williams. I use the usage dots system.
+**The Electrum Archive** by Emiel Boven. The science fantasy vibes, with less science. Usage, combat zones, and advancement for Luck Dice.
 
 **Block, Dodge, Parry** by Lars Huijbregts. I use a modification of their weapon traits.
 

@@ -1,13 +1,29 @@
 ---
-title: Gaining Experience
+title: Ending the Session
 layout: default
-parent: Character Creation
+parent: How to Play
 nav_order: 1
 ---
+# Ending the Session
 
-# Gaining Experience
+## Awarding Luck Dice
 
-PCs gain XP From the following sources:
+At the end of a session, go through the questions below as a group. Roll all the dice for each question your character answers yes to. The highest value rolled is how many Luck Dice your character receives. You cannot exceed 6 Luck dice, but you can award any that you can't keep to another player.
+- Did you complete a goal?
+  - short term (1-2 sessions), roll 1d4
+  - long term (3+ sessions), roll 1d8
+- Did you learn something useful about the world?
+  - roll 1d4
+- Did you establish a meaningful relationship with a character or faction?
+  - roll 1d6
+- Did you roll a natural 1 on a save?
+  - roll 1d4
+- Did you survive after dropping to 0 Stamina?
+  - roll 1d6
+
+## Gaining Experience
+
+The Referee tallies experience to award characters based on their action this session.
 
 **Treasure**: PCs gain 1 XP for every silver piece worth of treasure recovered and returned to a safe haven.
 
@@ -28,6 +44,8 @@ PCs gain XP From the following sources:
 |Global|10,000|3 Days|x3|
 |Cosmic|100,000|Etc.|Etc.|
 
+## Levelling Up
+
 At certain XP thresholds, PCs gain a level.
 
 |Level|XP Total|
@@ -43,10 +61,8 @@ At certain XP thresholds, PCs gain a level.
 |9|128,000|
 |10|256,000|
 
-## Levelling Up
-
 When your PC gains a new level:
-1. Add +1 to two different ability scores of your choice. Abilities cannot exceed +10
+1. Add +1 to two different ability scores of your choice. Abilities cannot exceed 10
     - If STR is increased, increase Max Item Slots
     - If DEX is increased, increase Quick Slots
     - IF END is increased, increase Max Wounds

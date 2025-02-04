@@ -87,39 +87,37 @@ Any equipment you rolled for can be sold for half of its listed value
 Use the tables below to flesh out your character's personality, backstory, and appearance.
 
 ### Virtues and Vices
-Virtues and Vices describe the personality of your character. At the end of each session, you will decide as a group if your characters lived up to their virtues and vices and award Luck Dice for each. Roll, choose, or invent a Virtue and a Vice.
+Virtues and Vices describe the personality of your character. Roll, choose, or invent a Virtue and a Vice.
 
 **Virtues**
 
-|d10|Virtue|Gain a Luck Dice when…|
-|----|--------------------|----------------------------------------------|
-|1|Ambitious|You achieve a goal|
-|2|Cautious|Your carefulness pays off|
-|3|Courageous|You charge head first into danger|
-|4|Disciplined|You reject something frivolous|
-|5|Gregarious|You donate something you need|
-|6|Honorable|You keep a promise|
-|7|Humble|You raise up someone else|
-|8|Merciful|You spare when it’s easier to kill|
-|9|Serene|You’re unphased while in danger|
-|10|Tolerant|You accept something you find strange|
+|d10|Virtue|
+|----|--------------------|
+|1|Ambitious|
+|2|Cautious|
+|3|Courageous|
+|4|Disciplined|
+|5|Gregarious|
+|6|Honorable|
+|7|Humble|
+|8|Merciful|
+|9|Serene|
+|10|Tolerant|
 
 **Vices**
 
-|d10|Vice|Gain a Luck Dice when…|
-|----|-------------------|------------------------------------------|
-|1|Aggressive|You get up in someone’s face|
-|2|Bitter|You suffer over a held grudge|
-|3|Craven|You leave your allies behind|
-|4|Deceitful|Your lie gets someone hurt|
-|5|Greedy|You risk it all for more treasure|
-|6|Lazy|Your neglect ruins something|
-|7|Nervous|You’re the last to go into danger|
-|8|Rude|You lash out at someone helpful|
-|9|Vain|You put someone else down|
-|10|Vengeful|You put revenge over everything|
-
-In general, your Virtue should award Luck Dice when doing something good isn’t easy, and your Vice should award Luck Dice when being immoral puts someone in danger. 
+|d10|Vice|
+|----|-------------------|
+|1|Aggressive|
+|2|Bitter|
+|3|Craven|
+|4|Deceitful|
+|5|Greedy|
+|6|Lazy|
+|7|Nervous|
+|8|Rude|
+|9|Vain|
+|10|Vengeful|
 
 ### Misfortunes
 

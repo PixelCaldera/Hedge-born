@@ -113,28 +113,43 @@ Interference not initially related to the save or attack can apply Banes:
 - Ex. If a PC has 2 Boons and a Bane, the Bane cancels out 1 of the Boons,  only 1d4 is rolled and added to the total.
 
 ## Luck Dice
-Luck Dice can be rolled to:
+Each luck dice spent grants 1d6 to roll. The result can be used to:
 - Add to a save
 - Add to the results of an action (damage, spell effect, etc.)
 - Reduce 1 source of damage by total
 
-Once a Luck Dice is rolled it is subtracted from the PC’s pool. PCs gain 1 Luck Dice from the following:
-- Rolling a natural 1
-- Surviving combat at 0 Stamina
-- Acting on a Virtue or Vice
-- Spending a week carousing
+Players can spend as many luck dice as they want on a single action.
 
-PCs can have a maximum of 6 Luck Dice.
+Characters gain luck dice at the end of a session. See **Ending the Session** for more details.
+
+PCs can have a maximum of 6 Luck Dice at once.
 
 ### Testing Luck
-To test Luck roll 1d6.  If the number on the die is less than or equal to their current Luck Dice, the circumstances are in the PC’s favor.
+To test Luck roll 1d6. If the number on the die is less than or equal to your current Luck Dice, the circumstances are in your favor.
 
 If a situation will affect a group of PCs, use the lowest Luck Dice total among them.
 
 ### Out of Luck
-When a PC reaches 0 Luck dice, a Doom occurs. The Referee chooses one of these options: 
-- The PC's next failed save has the worst possible outcome
-- The next Scar a PC takes becomes a permanent Injury
-- Some other terrible situation of the Referee’s choice.
-  
-After an intrusion is made, the out of luck PC gains 2 Luck.
+When a PC reaches 0 Luck dice, a Doom occurs. Dooms are unforseen consequences that would make a character say "just my luck." Referees can use the examples below or come up with their own. 
+- For luck dice spent on a save:
+  - the obstacle is removed, but enemies are waiting just beyond
+  - an item used to make the save is destroyed or severely damaged
+  - a character becomes seperated and surrounded by threats
+- For luck dice spent on attacks:
+  - The surroundings are damaged by the attack, the room is now collapsing, on fire, filling with gas, plunged in darkness etc.
+  - The noise attracts other enemies, roll for a random encounter, they can be heard approaching
+  - The weapon used is thrown somewhere hazardous to reach
+- For luck dice spent on magic:
+  - The spell goes haywire, roll for a Mishap (see Magic)
+- Other situations:
+  - An NPC the characters were avoiding shows up
+  - The character's mental wellbeing is strained. Have them make a WIL save, on a success they gain a perturbed trait (sunken eyes, nail biting, hand tremors), on a failure they gain an insanity
+    - maybe make a table for these perturbed traits?
+
+After a Doom occurs, the out of luck PC gains 2 Luck Dice.
+
+**Dooms never negate a successful roll or attack, nor should they immediately kill a PC. They occur after the action the luck dice were spent on, and rachet up the tension, placing characters in difficult situations.**
+
+*Author's Note: Dooms should be as immediate as possible. Too many times I've waited after all luck dice have been spent for the right moment to doom the characters, only for the session to come to an end, and the characters gain more luck dice. Don't think too hard about it, just make their immediate situation more stressful.*
+
+
